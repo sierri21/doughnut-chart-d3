@@ -1,5 +1,8 @@
 # doughnut-chart
 
+## demo 
+https://doughnut-chart-d3.vercel.app/
+
 ## Project setup
 ```
 npm install
